@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TesseractExample.iml" filepath="$PROJECT_DIR$/TesseractExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleTesseractExample2.iml" filepath="$PROJECT_DIR$/.idea/SimpleTesseractExample2.iml" />
+      <module fileurl="file://C:\Users\BrahmjotSinghKhalsa\StudioProjects\SimpleTesseractExample2\TesseractExample.iml" filepath="C:\Users\BrahmjotSinghKhalsa\StudioProjects\SimpleTesseractExample2\TesseractExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\BrahmjotSinghKhalsa\StudioProjects\SimpleTesseractExample2\app\app.iml" filepath="C:\Users\BrahmjotSinghKhalsa\StudioProjects\SimpleTesseractExample2\app\app.iml" />
     </modules>
   </component>
 </project>

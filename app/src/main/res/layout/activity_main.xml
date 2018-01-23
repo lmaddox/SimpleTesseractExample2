@@ -8,17 +8,32 @@
     tools:context=".MainActivity"
     android:weightSum="1">
 
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        >
+        <Button android:text="@string/btnIntend" android:id="@+id/btnIntend"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1" />
+        <Button android:text="@string/btnIntendS" android:id="@+id/btnIntendS"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="332dp"
+        android:layout_height="wrap_content"
         android:background="#ffffff"
         android:id="@+id/ImageContainer">
 
+
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/imageView"
-            android:src="@drawable/test_image"/>
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"/>
 
     </RelativeLayout>
 
